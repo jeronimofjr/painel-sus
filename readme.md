@@ -8,7 +8,7 @@ Seu desafio é criar essa API REST usando Python e o framework Flask.
 ## Instruções de uso
 
 
-**Download do projeto**
+### Download do projeto
 
 Com o **git** ([git instalação](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git)) instalado na máquina, use o terminal do computador e dê o seguinte comando para fazer o download do projeto:
 
@@ -19,7 +19,7 @@ git clone https://github.com/jeronimofjr/painel-sus
 <!--MAIN_END-->
  É também possível fazer o download do projeto através da interface gráfica do github, aperte em **code** e depois em **Download Zip** (extraia a pasta painel-sus).  
 
-**Mudança para a pasta do projeto**
+### Mudança para a pasta do projeto
 
 Após ter feito o download do projeto, acesse a pasta do projeto com o seguinte comando:
 <!--MAIN_BEGIN-->
@@ -28,7 +28,7 @@ cd painel-sus/
 ```
 <!--MAIN_END-->
 
-**Execução do ambiente:**
+### Execução do ambiente:
 
 Para a execução do projeto é necessário a instalação do **docker** e **docker-compose**:
 * [Docker instalação](https://docs.docker.com/engine/install/)
