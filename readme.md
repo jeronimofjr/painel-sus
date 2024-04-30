@@ -21,7 +21,7 @@ git clone https://github.com/jeronimofjr/painel-sus
 
 ### Mudança para a pasta do projeto
 
-Após ter feito o download do projeto, acesse a pasta do projeto com o seguinte comando:
+Após ter feito o download do projeto, acesse pelo terminal a pasta do projeto com o seguinte comando:
 <!--MAIN_BEGIN-->
 ```bash
 cd painel-sus/
@@ -34,7 +34,7 @@ Para a execução do projeto é necessário a instalação do **docker** e **doc
 * [Docker instalação](https://docs.docker.com/engine/install/)
 *  [Docker-compose instalação](https://docs.docker.com/compose/install/)
 
- caso já estejam instalados, basta adicionar os comandos abaixo:
+ caso já estejam instalados, basta adicionar os comandos abaixo pelo terminal:
 
 <!--MAIN_BEGIN-->
 ```bash
