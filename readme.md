@@ -28,7 +28,7 @@ cd painel-sus/
 ```
 <!--MAIN_END-->
 
-### Execução do ambiente:
+### Execução do ambiente
 
 Para a execução do projeto é necessário a instalação do **docker** e **docker-compose**:
 * [Docker instalação](https://docs.docker.com/engine/install/)
